@@ -16,6 +16,13 @@ _A fast‑track, self‑paced program to reach independent reading competence in
 
 ---
 
+Online dictionaries I have found helpful thus far, typically one will provide a translation if the other does not. 
+
+1. [Latin Dictionary](https://www.online-latin-dictionary.com/)
+2. [Latin is Simple: The Forum Romanorum](https://www.latin-is-simple.com/)
+
+---
+
 ## 🗂 Curriculum map
 
 1. **Foundation**  
