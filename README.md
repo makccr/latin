@@ -63,7 +63,7 @@ See **resources/** for full bibliographic notes & alternatives.
 
 ## Foundation
 
-- [X] LLPSI ch. 1 — mastering nominative & accusative
+- [X] LLPSI ch. 1 — 2025.07.14
 - [ ] LLPSI ch. 2
 - [ ] LLPSI ch. 3
 - [ ] LLPSI ch. 4
