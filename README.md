@@ -63,9 +63,9 @@ See **resources/** for full bibliographic notes & alternatives.
 
 ## Foundation
 
-- [X] LLPSI ch. 1 - 2025.07.14
-- [X] LLPSI ch. 2 - 2025.07.18
-- [ ] LLPSI ch. 3
+- [x] LLPSI ch. 1 - 2025.07.14
+- [x] LLPSI ch. 2 - 2025.07.18
+- [x} LLPSI ch. 3 - 2025.07.20
 - [ ] LLPSI ch. 4
 - [ ] LLPSI ch. 5
 - [ ] LLPSI ch. 6
