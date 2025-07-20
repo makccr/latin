@@ -65,7 +65,7 @@ See **resources/** for full bibliographic notes & alternatives.
 
 - [x] LLPSI ch. 1 - 2025.07.14
 - [x] LLPSI ch. 2 - 2025.07.18
-- [x} LLPSI ch. 3 - 2025.07.20
+- [x] LLPSI ch. 3 - 2025.07.20
 - [ ] LLPSI ch. 4
 - [ ] LLPSI ch. 5
 - [ ] LLPSI ch. 6
