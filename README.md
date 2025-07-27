@@ -1,6 +1,9 @@
-# The Open‑Source Latin Self‑Study Curriculum
+<a href="https://makc.co">
+    <img src="https://makc.co/images/github-header.svg" alt="MAKC lgoo" title="MAKC" align="right" height="50" />
+</a>
 
-_A fast‑track, self‑paced program to reach independent reading competence in Classical Latin in ≈ 6 months.
+# The Open‑Source Latin Self‑Study Curriculum
+A fast‑track, self‑paced program to reach independent reading competence in Classical Latin in ≈ 6 months.
 
 ---
 
