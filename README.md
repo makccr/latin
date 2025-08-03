@@ -19,10 +19,18 @@ A fast‑track, self‑paced program to reach independent reading competence in 
 
 ---
 
-Online dictionaries I have found helpful thus far, typically one will provide a translation if the other does not. 
+## A few helpful online resources
+### Textbooks 
+1. [Lingua Latina per se Illustrata, Pars I](https://www.amazon.com/Lingua-Latina-Illustrata-Pars-Familia/dp/1585104205): Familia Romana - Hans H. Ørberg
+    * [Internet Archive](https://archive.org/details/llpsi-pars-i-familia-romana), resource to view online
+2. [Lingua Latina, Pars II](https://www.amazon.com/Colloquia-Personarum-Lingua-Latina-Latin/dp/158510938X): Colloquia Personarum - Hans H.  Ørberg
 
-1. [Latin Dictionary](https://www.online-latin-dictionary.com/)
-2. [Latin is Simple: The Forum Romanorum](https://www.latin-is-simple.com/)
+### Vocabulary
+1. [Vocabulary Lingua Latina Per Se Illustrata](http://www.denisowski.org/Latin/LLPSI_1/LLPSI_1.html) - Latin to English translations for each chapter in Ørberg's Lingua Latina textbook
+    * Really solid language learning [resource](http://www.denisowski.org) for Koine Greek, Hebrew, Latin and more
+    * *Important Note**: This site is not secured via HTTPS
+2. [Latin Dictionary](https://www.online-latin-dictionary.com/) - A Latin to English Dictionary
+3. [Latin is Simple: The Forum Romanorum](https://www.latin-is-simple.com/) - A Latin to English Dictionary
 
 ---
 
